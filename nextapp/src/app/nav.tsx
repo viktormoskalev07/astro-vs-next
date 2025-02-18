@@ -5,6 +5,8 @@ export const Nav = ()=>{
         <a href={"/js"}> js   </a>
         <br/>
         <a href={"/"}>no js   </a>
+        <br/>
+        <a href={"/edge"}>no js  edge  </a>
 
     </nav>
 }
